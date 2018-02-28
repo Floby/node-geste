@@ -1,6 +1,6 @@
 {
   "name": "geste",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small binary that calls a requirable jest exectuable",
   "main": "index.js",
   "scripts": {
