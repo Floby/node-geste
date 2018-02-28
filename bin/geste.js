@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 try {
   require('jest/bin/jest')
 } catch (error) {
