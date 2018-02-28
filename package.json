@@ -1,0 +1,28 @@
+{
+  "name": "geste",
+  "version": "1.0.0",
+  "description": "A small binary that calls a requirable jest exectuable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "geste": "./bin/geste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floby/node-geste.git"
+  },
+  "keywords": [
+    "jest",
+    "jest-cli",
+    "binary",
+    "cli"
+  ],
+  "author": "Florent Jaby <fjaby@octo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Floby/node-geste/issues"
+  },
+  "homepage": "https://github.com/Floby/node-geste#readme"
+}
