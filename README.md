@@ -3,6 +3,39 @@ node-geste
 
 > A small binary that calls a requirable jest exectuable
 
+Install
+-------
+
+    $ npm install --save-dev geste
+
+Usage
+-----
+
+    $ npx geste
+
+Or, if you are a bit old fashioned:
+
+    $ ./node_modules/.bin/geste
+
+Or, if you are a yarner:
+
+    $ yarn geste
+
+Or, if you are sound-minded:
+
+```javascript
+// package.json
+{
+  "scripts": {
+    "test": "geste"
+  }
+}
+```
+
+And then
+
+    $ npm test
+
 Why ?
 -----
 
