@@ -1,7 +1,7 @@
 node-geste
 ==========
 
-> A small binary that calls a requirable jest exectuable
+> A small binary that calls a requirable jest executable
 
 Install
 -------
